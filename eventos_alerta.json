@@ -1,0 +1,26 @@
+[
+    {
+        "fecha": "2025-05-13",
+        "temperatura": 33.0,
+        "humedad": 50.0,
+        "alerta": "sobrecalentamiento"
+    },
+    {
+        "fecha": "2025-05-21",
+        "temperatura": 34.5,
+        "humedad": 23.3,
+        "alerta": "posible sequia"
+    },
+    {
+        "fecha": "2025-05-22",
+        "temperatura": 36.0,
+        "humedad": 23.0,
+        "alerta": "posible sequia"
+    },
+    {
+        "fecha": "2025-05-23",
+        "temperatura": 35.5,
+        "humedad": 21.0,
+        "alerta": "posible sequia"
+    }
+]

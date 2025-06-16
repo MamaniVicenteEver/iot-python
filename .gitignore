@@ -1,35 +1,3 @@
 # Entorno virtual
 venv/
 .venv/
-
-# Archivos de configuración de entorno
-.env
-.env.*
-
-# Archivos de Python compilados
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Archivos de log o salida temporal
-*.log
-*.out
-*.tmp
-
-# Archivos generados automáticamente
-*.csv
-*.json
-*.png
-
-# Jupyter notebooks temporales (si los usas)
-.ipynb_checkpoints/
-
-# Archivos del sistema operativo
-.DS_Store
-Thumbs.db
-
-# Archivos de Visual Studio Code (opcional)
-.vscode/
-
-# Carpeta de pruebas en Wokwi (si generas algún dump)
-wokwi-project.json
